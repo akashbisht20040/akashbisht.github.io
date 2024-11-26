@@ -26,21 +26,21 @@ I’m pursuing my MCA at UPES, specializing in Cyber security. Alongside my core
  - Interactive Gameplay:
 
 Players take turns to place their markers (X or O) on a 3x3 grid.
-The game announces a winner or a draw after each match.
+The game announces a winner or a draw after each match.<br>
  -Player Customization:
 
-Players can enter their names for personalized gameplay.
+Players can enter their names for personalized gameplay.<br>
  -Scoreboard:
 
-Tracks the scores of both players and the number of draws.
+Tracks the scores of both players and the number of draws.<br>
  -Controls:
 
 Restart the current game without resetting scores.
-Reset scores and start fresh.
+Reset scores and start fresh.<br>
  -Dynamic UI:
 
 Highlight winning combinations.
-Adaptive buttons and status bar reflecting the current state.
+Adaptive buttons and status bar reflecting the current state.<br>
  
  ---
 
