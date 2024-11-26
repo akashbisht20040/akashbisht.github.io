@@ -44,29 +44,33 @@ Adaptive buttons and status bar reflecting the current state.<br>
  
  ---
 
-### ⿣ [Finance Tracker](https://github.com/divyansshu/Finance-Tracker)  
-**[Deployment Link](https://divyansshu.github.io/Finance-Tracker/)** (click)– Hosted using GitHub Pages<br><br>
-A finance tracker application built using Python's tkinter module. It allows the user to keep track of their income and expenses, and visualize their balance through a pie chart.
+### ⿣ [Simple Calculator](https://github.com/akashbisht20040/python_calculator.git)  
+**[Deployment Link](https://akashbisht20040.github.io/python_calculator/)** (click)– Hosted using GitHub Pages<br><br>
+
 
 **Features**:  
-- Dark Mode and Theming
-- Track income and expenses
-- Visualize financial data using charts
+- Basic Operations: Perform addition, subtraction, multiplication, and division.
+- Clear Button: Clear the current input.
+- Equals Button: Evaluate the expression and show the result.
+- Responsive Layout: Adjusts to different screen sizes using grid layout.
+- Error Handling: Displays "Error" if an invalid calculation is attempted.
   
 ---
 
-### ⿤ [Symbol Hunt Game](https://github.com/divyansshu/Symbol-Hunt)  
-**[Deployment Link](https://divyansshu.github.io/Symbol-Hunt/))** (click)– Hosted using GitHub Pages<br><br> 
-Symbol Hunt is a fun and engaging memory-based game where players uncover pairs of matching symbols. Test your memory and concentration skills to complete the game.
+### ⿤ [Python Quiz applcation](https://github.com/akashbisht20040/python_Quiz_application.git)  
+**[Deployment Link](https://akashbisht20040.github.io/python_Quiz_application/))** (click)– Hosted using GitHub Pages<br><br> 
 
 **Features**:  
-- Interactive and colorful symbol-based memory game.
-- Tracks pairs to ensure a rewarding user experience.
-- Grid-based layout for intuitive gameplay.
+- Multiple-choice quiz with embedded Python-related questions.
+- Timer for each question (default: 30 seconds).
+- Shuffle questions for variety in each quiz session.
+- Feedback on answers with correct answers displayed if incorrect.
+- Displays the final score at the end of the quiz.
+- User-friendly graphical interface.
   
 ---
 
-### ⿦ [Classwork & Assignments](https://github.com/divyansshu/python/tree/main/upes%20python%20class%20assignment)  
+### ⿦ [Classwork & Assignments](https://github.com/akashbisht20040/python_UPES_B1.git)  
 A repository containing various Python projects, classwork, and assignments completed as part of academic learning at UPES.
 
 ---
