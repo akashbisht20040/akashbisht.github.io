@@ -18,14 +18,29 @@ I’m pursuing my MCA at UPES, specializing in Cyber security. Alongside my core
   
 ---
 
-### ⿢ [Web Scraper](https://github.com/divyansshu/Basic-web-scrapper)
-**[Deployment Link](https://divyansshu.github.io/Basic-web-scrapper/)** (click) – Hosted using GitHub Pages <br><br>
- This project contains two web scrapers: one for scraping book information from a book site and another for scraping quotes from a quote site. The scraped data is saved into CSV files.
+### ⿢ [Tic-Tac-Toe](https://github.com/akashbisht20040/Tic-tac-toe_game-.git)
+**[Deployment Link](https://akashbisht20040.github.io/Tic-tac-toe_game-/)** (click) – Hosted using GitHub Pages <br><br>
+
  
  **Features**:
- - Extracts structured data efficiently.
- - Python-based with CSV output for easy analysis.
- - Modular and easy-to-maintain scripts.
+ - Interactive Gameplay:
+
+Players take turns to place their markers (X or O) on a 3x3 grid.
+The game announces a winner or a draw after each match.
+ -Player Customization:
+
+Players can enter their names for personalized gameplay.
+ -Scoreboard:
+
+Tracks the scores of both players and the number of draws.
+ -Controls:
+
+Restart the current game without resetting scores.
+Reset scores and start fresh.
+ -Dynamic UI:
+
+Highlight winning combinations.
+Adaptive buttons and status bar reflecting the current state.
  
  ---
 
