@@ -6,7 +6,7 @@ I’m pursuing my MCA at UPES, specializing in Cyber security. Alongside my core
 
 ## 🛠 Projects  
 ### ⿡ [to-do-list](https://github.com/akashbisht20040/to-do-list.git)
-**[Deployment Link](https://github.com/akashbisht20040/to-do-list.git/)** (click) – Hosted using GitHub Pages <br><br>
+**[Deployment Link](https://akashbisht20040.github.io/to-do-list/)** (click) – Hosted using GitHub Pages <br><br>
 
 **Features**:  
 - Add Task: Enter a task and click the "➕ Add Task" button to add it to the list.
